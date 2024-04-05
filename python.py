@@ -1,0 +1,5 @@
+*=eval(input("enter "))
+**=int(str(n)+str(n))
+***=int(str(*)+str(*)+str(*))
+****=int(str(*)+str(*)+str(*)+str(*))
+print(*+**+***+****)
